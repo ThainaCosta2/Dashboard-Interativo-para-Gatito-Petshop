@@ -28,7 +28,7 @@ Para atender a essas demandas, a proprietária forneceu as seguintes bases de da
 ### 1. Importação de Dados
 A primeira etapa envolveu a importação dos arquivos disponíveis em formato .xlsx, que incluem planilhas separadas por ano (2020, 2021 e 2022). Esses dados foram utilizados para calcular o faturamento total.
 
-### 2. Criação do Dashboard
+### 2. Criação do Dashboard 👩🏻‍💻
 Após a importação, desenvolvemos um dashboard personalizável com os seguintes elementos:
 
 - **Cartões**: Para exibir indicadores principais como o faturamento total.
