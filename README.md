@@ -1,7 +1,7 @@
 # Dashboard Interativo para Gatito Petshop 🐱🐶
 
 ## Visão Geral
-Este repositório contém um projeto desenvolvido para a Helô, proprietária do Gatito Petshop, que busca expandir seu negócio através de decisões baseadas em dados. Utilizando o Power BI, realizamos análises abrangentes a partir das informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados por meio de gráficos e visuais amigáveis.
+Este repositório contém um projeto desenvolvido para a proprietária do Gatito Petshop, que busca expandir seu negócio através de decisões baseadas em dados. Utilizando o Power BI, realizamos análises abrangentes a partir das informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados por meio de gráficos e visuais amigáveis.
 
 
 https://github.com/user-attachments/assets/4868daea-755d-40da-a7d4-eb063879c069
@@ -17,7 +17,7 @@ O principal objetivo deste projeto é criar um dashboard no Power BI que permite
 - **Média de Pets por Cliente**: Cálculo da média de animais de estimação por cliente para ajustar a oferta de produtos.
 
 ## Bases de Dados
-Para atender a essas demandas, a Helô forneceu as seguintes bases de dados:
+Para atender a essas demandas, a proprietária forneceu as seguintes bases de dados:
 
 - **Clientes**: Arquivo no formato TXT.
 - **Produtos**: Arquivo disponível no Google Sheets.
@@ -51,6 +51,6 @@ Considerando que muitos usuários acessarão os relatórios utilizando dispositi
 - **Organização de Visuais**: Organizar os diversos visuais no layout móvel para garantir uma visualização otimizada e intuitiva.
 
 ## Conclusão
-Com essas etapas, criamos um relatório dinâmico e atrativo que permitirá à Helô tomar decisões informadas para a expansão da Gatito Petshop. Este projeto não só atende às suas necessidades imediatas, mas também estabelece uma base sólida para futuras análises e crescimento do negócio.
+Com essas etapas, criamos um relatório dinâmico e atrativo que permitirá à proprietária tomar decisões informadas para a expansão da Gatito Petshop. Este projeto não só atende às suas necessidades imediatas, mas também estabelece uma base sólida para futuras análises e crescimento do negócio.
 
 Se você é um colaborador ou desenvolvedor que deseja contribuir com este projeto, sinta-se à vontade para explorar o repositório, fazer sugestões e enviar pull requests!
