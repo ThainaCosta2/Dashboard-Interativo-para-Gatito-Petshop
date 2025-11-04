@@ -3,6 +3,10 @@
 ## Visão Geral
 Este repositório contém um projeto desenvolvido para a Helô, proprietária do Gatito Petshop, que busca expandir seu negócio através de decisões baseadas em dados. Utilizando o Power BI, realizamos análises abrangentes a partir das informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados por meio de gráficos e visuais amigáveis.
 
+
+https://github.com/user-attachments/assets/4868daea-755d-40da-a7d4-eb063879c069
+
+
 ## Objetivos do Projeto
 O principal objetivo deste projeto é criar um dashboard no Power BI que permite à Helô visualizar e analisar métricas-chave para entender o desempenho do seu negócio e tomar decisões estratégicas. As principais necessidades identificadas foram:
 
