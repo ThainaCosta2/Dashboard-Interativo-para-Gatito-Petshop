@@ -1,6 +1,6 @@
 # Dashboard Interativo para Gatito Petshop 📊🐱🐶
 
-## Visão Geral
+## Visão Geral 📄
 Este repositório contém um projeto desenvolvido para a proprietária do Gatito Petshop, que busca expandir seu negócio através de decisões baseadas em dados. Utilizando o Power BI, realizamos análises abrangentes a partir das informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados por meio de gráficos e visuais amigáveis.
 
 
