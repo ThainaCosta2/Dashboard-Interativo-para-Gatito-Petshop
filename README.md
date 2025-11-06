@@ -1,6 +1,6 @@
 # Dashboard Interativo para Gatito Petshop 📊🐱🐶
 
-## Visão Geral 📄 👩🏻‍💻📓✍🏻💡
+## Visão Geral 📄
 Este repositório contém um projeto desenvolvido para a proprietária do Gatito Petshop, que busca expandir seu negócio através de decisões baseadas em dados. Utilizando o Power BI, realizamos análises abrangentes a partir das informações disponíveis sobre clientes, produtos e vendas, apresentando os resultados por meio de gráficos e visuais amigáveis.
 
 
@@ -23,7 +23,7 @@ Para atender a essas demandas, a proprietária forneceu as seguintes bases de da
 - **Produtos**: Arquivo disponível no Google Sheets.
 - **Vendas**: Várias planilhas em uma pasta de trabalho do Excel.
 
-## Etapas do Projeto 📜
+## Etapas do Projeto 👩🏻‍💻📓✍🏻💡
 
 ### 1. Importação de Dados
 A primeira etapa envolveu a importação dos arquivos disponíveis em formato .xlsx, que incluem planilhas separadas por ano (2020, 2021 e 2022). Esses dados foram utilizados para calcular o faturamento total.
