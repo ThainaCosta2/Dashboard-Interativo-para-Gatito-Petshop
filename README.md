@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/4868daea-755d-40da-a7d4-eb063879c069
 
 
 ## Objetivos do Projeto 🎯
-O principal objetivo deste projeto é criar um dashboard no Power BI que permite à proprietária visualizar e analisar métricas-chave para entender o desempenho do seu negócio e tomar decisões estratégicas. As principais necessidades identificadas foram
+O principal objetivo deste projeto é criar um dashboard no Power BI que permite à proprietária visualizar e analisar métricas-chave para entender o desempenho do seu negócio e tomar decisões estratégicas. As principais necessidades identificadas foram:
 
 - **Faturamento Total**: Monitoramento do faturamento ao longo dos últimos anos para avaliar o crescimento do negócio.
 - **Faturamento por Marca**: Visualização do faturamento por marca para identificar quais produtos são mais vendidos.
